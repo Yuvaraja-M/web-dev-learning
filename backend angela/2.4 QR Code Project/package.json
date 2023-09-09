@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.10",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qrcode",
+  "version": "1.0.0",
+  "description": "to make link to qr image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuva",
+  "license": "ISC"
+}
